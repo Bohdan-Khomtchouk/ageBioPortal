@@ -38,6 +38,13 @@ As stated above, the goal of this project is for `ageBioPortal` to function as a
 
 Repeat the `install.packages()` and `library()` sequence for any other R packages that `ageBioPortal` relies on. 
 
+## I think this is fun, how can I help?
+There are many simple things that can help this project greatly:
+
+  * Send a tweet supporting this project.
+  * You are probably sitting next to another developer right now, tell them about `ageBioPortal`.
+  * If you want to contribute to the project, that's amazing! Open an issue on GitHub and let's talk about it.
+
 ## Code of conduct
 
 Please note that this project is released with a [Contributor Code of Conduct](CONDUCT.md). By participating in this project you agree to abide by its terms.
