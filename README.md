@@ -45,6 +45,13 @@ There are many simple things that can help this project greatly:
   * You are probably sitting next to another developer right now, tell them about `ageBioPortal`.
   * If you want to contribute to the project, that's amazing! Open an issue on GitHub and let's talk about it.
 
+## Contact
+You are welcome to:
+
+* submit suggestions and bug-reports at: <https://github.com/Bohdan-Khomtchouk/ageBioPortal/issues>
+* send a pull request on: <https://github.com/Bohdan-Khomtchouk/ageBioPortal>
+* compose an e-mail to: <bohdan@stanford.edu>
+
 ## Code of conduct
 
 Please note that this project is released with a [Contributor Code of Conduct](CONDUCT.md). By participating in this project you agree to abide by its terms.
