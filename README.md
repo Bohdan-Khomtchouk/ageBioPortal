@@ -15,6 +15,10 @@ Currently, there is no open-access resource for interactive exploration of multi
 ## Purpose
 As stated above, the goal of this project is for `ageBioPortal` to function as a user-friendly web platform for researchers to simply enter the name of a gene and receive an output that is similar in utility to that of cBioPortal. Towards this end, we will use an iterative process comparing `ageBioPortal` output for epigenetic genes studied in the Gozani lab with manual searches. We will also leverage work of these targets done in the Gozani lab to guide the search engine. Overall, success of this project should provide a powerful new tool for aging biology researchers and lower the barrier for researchers in other areas to study aging at a molecular/gene level.
 
+## Impact
+
+`ageBioPortal` is transforming aging from a diverse set of wet-lab pursuits across a variety of disease domains into a unified data science.  Also, `ageBioPortal` is bringing computing to aging in a time when research in this field is clearly an underdeveloped area (at least relative to cancer research -- at the time of writing, there are [126 Github repositories with the 'cancer' tag](https://github.com/topics/cancer) vs. [9 repos with the 'aging' tag](https://github.com/topics/aging)).  Perhaps most importantly, `ageBioPortal` is bringing together people from diverse areas of aging-related disease research that normally would not crosstalk much with each other (e.g., Alzheimer's and diabetes research communities) to one common web platform, thereby establishing aging as an interdisciplinary and integrative data science.
+
 ## Usage (for general public)
 
 ##### http://agebioportal.com 
