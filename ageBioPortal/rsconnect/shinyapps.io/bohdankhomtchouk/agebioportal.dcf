@@ -5,6 +5,6 @@ account: bohdankhomtchouk
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 292556
-bundleId: 1251338
+bundleId: 1261596
 url: https://bohdankhomtchouk.shinyapps.io/agebioportal/
-when: 1520134092.63406
+when: 1520626586.9214

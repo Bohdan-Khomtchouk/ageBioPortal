@@ -46,7 +46,7 @@ ui <- fluidPage(
   
   tabPanel("Thank you for using ageBioPortal!",
     sidebarLayout(
-      absolutePanel(top = 850, width = "100%", align = "center",
+      absolutePanel(top = 700, width = "100%", align = "center",
                       searchInput(
                         inputId = "search_id", 
                         label = "", 
