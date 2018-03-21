@@ -48,16 +48,14 @@ ui <- fluidPage(
     sidebarLayout(
           absolutePanel(top = "80%", width = "100%", align = "center",
                         searchInput(
-                        inputId = "search_id", 
-                        label = "", 
-                        placeholder = "E.g., LRRK2 and Parkinson's disease", 
-                        btnSearch = icon("search"), 
-                        btnReset = icon("remove"),
-                        width = '400px'
-                      ),
-                    fixed=TRUE
-                      #br(),
-                      #br()
+                          inputId = "search_id", 
+                          label = "", 
+                          placeholder = "E.g., LRRK2 and Parkinson's disease", 
+                          btnSearch = icon("search"), 
+                          btnReset = icon("remove"),
+                          width = '400px'
+                        ),
+                        fixed = TRUE
                   ),
       
         mainPanel(NULL)
