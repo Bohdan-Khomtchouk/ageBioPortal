@@ -1,0 +1,269 @@
+[
+  {
+    "rs145703098": {
+      "source": ["Variants (including SNPs and indels) imported from dbSNP"],
+      "mappings": [
+        {
+          "location": ["20:17494297-17494297"],
+          "assembly_name": ["GRCh38"],
+          "end": [17494297],
+          "seq_region_name": ["20"],
+          "strand": [1],
+          "coord_system": ["chromosome"],
+          "allele_string": ["G/A"],
+          "start": [17494297]
+        }
+      ],
+      "name": ["rs145703098"],
+      "phenotypes": [
+        {
+          "source": ["ClinVar"],
+          "ontology_accessions": [
+            ["EFO:0001059"],
+            ["HP:0000518"]
+          ],
+          "risk_allele": ["A"],
+          "trait": ["CATARACT 33, MULTIPLE TYPES"],
+          "genes": ["BFSP1"]
+        }
+      ],
+      "MAF": [0.0004],
+      "clinical_significance": [
+        ["likely benign"]
+      ],
+      "ambiguity": ["R"],
+      "var_class": ["SNP"],
+      "synonyms": [
+        ["NP_001265537.1:p.Ala453Val"],
+        ["NP_001186.1:p.Ala592Val"],
+        ["NM_001278607.1:c.1442C>T"],
+        ["NM_001161705.1:c.1400C>T"],
+        ["NM_001195.4:c.1775C>T"],
+        ["NP_001265535.1:p.Ala453Val"],
+        ["NP_001155177.1:p.Ala467Val"],
+        ["NP_001265536.1:p.Ala481Val"],
+        ["NM_001278608.1:c.1358C>T"],
+        ["NM_001278606.1:c.1358C>T"],
+        ["RCV000549643"]
+      ],
+      "evidence": [
+        ["Frequency"],
+        ["1000Genomes"],
+        ["ESP"],
+        ["Phenotype_or_Disease"],
+        ["ExAC"]
+      ],
+      "ancestral_allele": ["G"],
+      "minor_allele": ["A"],
+      "most_severe_consequence": ["missense_variant"]
+    },
+    "rs946019953": {
+      "source": ["Variants (including SNPs and indels) imported from dbSNP"],
+      "mappings": [
+        {
+          "location": ["9:97475407-97475407"],
+          "assembly_name": ["GRCh38"],
+          "end": [97475407],
+          "seq_region_name": ["9"],
+          "strand": [1],
+          "coord_system": ["chromosome"],
+          "allele_string": ["T/A"],
+          "start": [97475407]
+        }
+      ],
+      "name": ["rs946019953"],
+      "phenotypes": [
+        {
+          "source": ["ClinVar"],
+          "ontology_accessions": [
+            ["EFO:0001059"],
+            ["HP:0000518"]
+          ],
+          "risk_allele": ["A"],
+          "trait": ["Cataract, autosomal recessive congenital 4"],
+          "genes": ["TDRD7"]
+        }
+      ],
+      "MAF": {},
+      "clinical_significance": [
+        ["uncertain significance"]
+      ],
+      "ambiguity": ["W"],
+      "var_class": ["SNP"],
+      "synonyms": [
+        ["RCV000552452"]
+      ],
+      "evidence": [
+        ["Frequency"],
+        ["Phenotype_or_Disease"]
+      ],
+      "ancestral_allele": ["T"],
+      "minor_allele": {},
+      "most_severe_consequence": ["missense_variant"]
+    },
+    "rs140332366": {
+      "source": ["Variants (including SNPs and indels) imported from dbSNP"],
+      "mappings": [
+        {
+          "location": ["13:20142726-20142726"],
+          "assembly_name": ["GRCh38"],
+          "end": [20142726],
+          "seq_region_name": ["13"],
+          "strand": [1],
+          "coord_system": ["chromosome"],
+          "allele_string": ["T/A/C/G"],
+          "start": [20142726]
+        }
+      ],
+      "name": ["rs140332366"],
+      "phenotypes": [
+        {
+          "variants": ["rs140332366"],
+          "source": ["OMIM"],
+          "ontology_accessions": [
+            ["EFO:0001059"],
+            ["HP:0000518"]
+          ],
+          "risk_allele": ["0007"],
+          "trait": ["CATARACT 14, NUCLEAR CORALLIFORM"],
+          "genes": ["GJA3"],
+          "study": ["MIM:121015"]
+        },
+        {
+          "variants": ["rs140332366"],
+          "source": ["OMIM"],
+          "ontology_accessions": [
+            ["EFO:0001059"],
+            ["HP:0000518"]
+          ],
+          "risk_allele": ["0005"],
+          "trait": ["CATARACT 14, NUCLEAR PULVERULENT"],
+          "genes": ["GJA3"],
+          "study": ["MIM:121015"]
+        },
+        {
+          "variants": {},
+          "source": ["ClinVar"],
+          "ontology_accessions": [
+            ["Orphanet:98984"]
+          ],
+          "risk_allele": ["A"],
+          "trait": ["Zonular pulverulent cataract 3"],
+          "genes": ["GJA3"],
+          "study": {}
+        },
+        {
+          "variants": {},
+          "source": ["ClinVar"],
+          "ontology_accessions": [
+            ["Orphanet:98984"]
+          ],
+          "risk_allele": ["G"],
+          "trait": ["Zonular pulverulent cataract 3"],
+          "genes": ["GJA3"],
+          "study": {}
+        }
+      ],
+      "MAF": {},
+      "clinical_significance": [
+        ["pathogenic"]
+      ],
+      "ambiguity": ["N"],
+      "var_class": ["SNP"],
+      "synonyms": [
+        ["NP_068773.2:p.Asn188Thr"],
+        ["NM_021954.3:c.563A>T"],
+        ["NP_068773.2:p.Asn188Ile"],
+        ["NM_021954.3:c.563A>G"],
+        ["NP_068773.2:p.Asn188Ser"],
+        ["NM_021954.3:c.563A>C"],
+        ["SCV000071671"],
+        ["SCV000071669"],
+        ["VAR_072763"],
+        ["VAR_066719"],
+        ["RCV000043649"],
+        ["RCV000043647"]
+      ],
+      "evidence": [
+        ["Frequency"],
+        ["Cited"],
+        ["ESP"],
+        ["Phenotype_or_Disease"],
+        ["ExAC"]
+      ],
+      "ancestral_allele": ["T"],
+      "minor_allele": {},
+      "most_severe_consequence": ["missense_variant"]
+    },
+    "rs28937573": {
+      "source": ["Variants (including SNPs and indels) imported from dbSNP"],
+      "mappings": [
+        {
+          "location": ["16:67165841-67165841"],
+          "assembly_name": ["GRCh38"],
+          "end": [67165841],
+          "seq_region_name": ["16"],
+          "strand": [1],
+          "coord_system": ["chromosome"],
+          "allele_string": ["C/T"],
+          "start": [67165841]
+        }
+      ],
+      "name": ["rs28937573"],
+      "phenotypes": [
+        {
+          "variants": ["rs28937573"],
+          "source": ["OMIM"],
+          "ontology_accessions": [
+            ["Orphanet:91492"]
+          ],
+          "risk_allele": ["0002"],
+          "trait": ["Cataract 5, multiple types"],
+          "genes": ["HSF4"],
+          "study": ["MIM:602438"]
+        },
+        {
+          "variants": {},
+          "source": ["ClinVar"],
+          "ontology_accessions": [
+            ["EFO:0001059"],
+            ["HP:0000006"],
+            ["HP:0000518"],
+            ["HP:0001134"],
+            ["HP:0001167"],
+            ["HP:0007971"],
+            ["HP:0010693"],
+            ["HP:0010920"],
+            ["HP:0100018"]
+          ],
+          "risk_allele": ["T"],
+          "trait": ["Cataract, zonular"],
+          "genes": ["HSF4"],
+          "study": {}
+        }
+      ],
+      "MAF": {},
+      "clinical_significance": [
+        ["pathogenic"]
+      ],
+      "ambiguity": ["Y"],
+      "var_class": ["SNP"],
+      "synonyms": [
+        ["NP_001529.2:p.Arg119Cys"],
+        ["NP_001035757.1:p.Arg119Cys"],
+        ["NM_001538.3:c.355C>T"],
+        ["NM_001040667.2:c.355C>T"],
+        ["11200"],
+        ["VAR_017561"],
+        ["RCV000007510"]
+      ],
+      "evidence": [
+        ["Cited"],
+        ["Phenotype_or_Disease"]
+      ],
+      "ancestral_allele": ["C"],
+      "minor_allele": {},
+      "most_severe_consequence": ["missense_variant"]
+    }
+  }
+]
